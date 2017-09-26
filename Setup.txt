@@ -1,0 +1,8 @@
+Space shooting game on Unix
+Please install SDL2.0 library before run the game.
+Please also install two extension SDL library SDL_TTF and SDL_MIXER.
+Tutorial for installing 
+http://lazyfoo.net/SDL_tutorials/lesson01/linux/index.php
+http://lazyfoo.net/SDL_tutorials/lesson03/linux/index.php
+
+Use command "make" to compile and "./gameplay" to play the game
